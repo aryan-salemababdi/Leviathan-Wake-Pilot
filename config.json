@@ -1,0 +1,6 @@
+{
+  "keydb_address": "localhost:6379",
+  "grpc_server_port": ":50051",
+  "exchange_api_key": "YOUR_EXCHANGE_API_KEY",
+  "exchange_api_secret": "YOUR_EXCHANGE_API_SECRET"
+}
