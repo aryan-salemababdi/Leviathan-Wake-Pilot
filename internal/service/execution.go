@@ -5,6 +5,8 @@ import (
 	"leviathan/leviathan-wake-pilot/internal/exchange"
 	"log"
 
+	"leviathan/leviathan-wake-pilot/proto"
+
 	"github.com/go-redis/redis"
 	"honnef.co/go/tools/config"
 )
